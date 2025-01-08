@@ -30,7 +30,7 @@ Welcome to the **Lamp Store** project! This is a frontend-focused e-commerce web
 
 - **Fully Responsive Design**:
   - The website is designed to adapt to various screen sizes, offering a seamless user experience on desktops, tablets, and smartphones,
-  used Bootstrap fro implementation.
+  used Bootstrap for implementation.
 
 ---
 
