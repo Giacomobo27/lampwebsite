@@ -1,6 +1,4 @@
 
-https://giacomobo27.github.io/lampwebsite/prog.html
-
 # Lamp Store E-commerce Website
 
 Welcome to the **Lamp Store** project! This is a frontend-focused e-commerce website for selling lamps, built using **HTML**, **CSS**, and **JavaScript**.
