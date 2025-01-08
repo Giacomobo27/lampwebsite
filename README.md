@@ -5,7 +5,7 @@ Welcome to the **Lamp Store** project! This is a frontend-focused e-commerce web
 
 ---
 
-## 🛠️ Features
+## Features
 
 - **Home Page (prog.html)**: 
   - The landing page showcasing the store's purpose and some highlights of the lamps available.
@@ -21,7 +21,7 @@ Welcome to the **Lamp Store** project! This is a frontend-focused e-commerce web
 
 ---
 
-## 🚀 Project Highlights
+## Project Highlights
 
 - **Frontend Technologies**:
   - **HTML**: For structuring the content.
@@ -36,7 +36,7 @@ Welcome to the **Lamp Store** project! This is a frontend-focused e-commerce web
 
 
 
-## 🌟 How to See it
+## How to See it
 
 1. Published on Github Pages
     https://giacomobo27.github.io/lampwebsite/prog.html
